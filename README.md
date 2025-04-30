@@ -1,6 +1,7 @@
 # 🎮 Loja de Games Pikachu ⚡
 
-![Logo da Loja](https://github.com/user-attachments/assets/2e17cb62-8cc0-4e38-b23a-626c46025814)
+![image](https://github.com/user-attachments/assets/19483dce-ddee-430c-8b9f-4accd02028b8)
+
 
 ---
 
