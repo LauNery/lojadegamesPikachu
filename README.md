@@ -1,6 +1,6 @@
 # 🎮 Loja de Games Pikachu ⚡
 
-![image](https://github.com/user-attachments/assets/2e17cb62-8cc0-4e38-b23a-626c46025814)
+![Logo da Loja](https://github.com/user-attachments/assets/2e17cb62-8cc0-4e38-b23a-626c46025814){ width=300 }
 
 ---
 
@@ -60,4 +60,4 @@ Obrigado por visitar a Loja de Games Pikachu! 🎮⚡
 
 ---
 
-*Feito por Laura Nery ❤️🎮
+Feito por Laura Nery ❤️🎮
